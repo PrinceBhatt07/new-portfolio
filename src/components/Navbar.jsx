@@ -54,7 +54,7 @@ const Navbar = () => {
         <Link to="/" className='menu-link'>Home</Link>
         <Link to="/about" className='menu-link'>About</Link>
         <Link to="/projects" className='menu-link'>Projects</Link>
-        <a href="mailto: bhattprince305@gmail.com" className='menu-link'>Contact</a>
+        <a href="mailto:bhattprince305@gmail.com" className='menu-link'>Contact</a>
       </div>
     </>
   )
