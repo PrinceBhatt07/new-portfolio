@@ -1,4 +1,4 @@
-import image from '../assets/images/my.jpeg'
+import image from "../assets/images/my.jpeg";
 
 export const AboutBanner = () => {
   return (
@@ -19,15 +19,15 @@ export const AboutBanner = () => {
           </div>
 
           {/* Text */}
-          <div className="md:w-[60%] text-lg md:text-xl space-y-4">
-            <p>
+          <div className="md:w-[60%] text-lg md:text-xl space-y-4 max-md:pt-5">
+            <p className="max-sm:text-[16px]">
               I am a dedicated software developer with experience in full-stack
               development, specializing in Laravel, ReactJS, and modern web
               technologies. I have a strong background in building scalable and
               efficient applications while ensuring clean code and maintainable
               architecture.
             </p>
-            <p>
+            <p className="max-sm:text-[16px]">
               My work emphasizes problem-solving, team collaboration, and
               delivering high-quality solutions that meet business objectives. I
               thrive in dynamic environments and continuously seek opportunities
