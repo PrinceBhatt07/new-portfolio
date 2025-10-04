@@ -7,7 +7,7 @@ import sanvit_motors from "../assets/images/sanvit_motors.png";
 import sku_bulk from "../assets/images/SKU Bulk Editor.png";
 import sprint_bus from "../assets/images/sprint_bus.png";
 import wheelsniffer from "../assets/images/wheelsniffer.png";
-import akhil_bhartiya from "../assets/images/akhil_bhartiya.png";
+import akhil_bhartiya from "../assets/images/Akhil_bhartiya.png";
 
 const AllProjects = [
   {
