@@ -1,7 +1,7 @@
 import foresight from "../assets/images/foresight.png";
 import sanvit_motors from "../assets/images/sanvit_motors.png";
 import sprint_bus from "../assets/images/sprint_bus.png";
-import akhil_bhartiya from "../assets/images/akhil_bhartiya.png";
+import akhil_bhartiya from "../assets/images/Akhil_bhartiya.png";
 
 
 const projects = [
