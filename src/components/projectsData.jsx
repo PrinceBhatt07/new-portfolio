@@ -1,27 +1,33 @@
+import foresight from "../assets/images/foresight.png";
+import sanvit_motors from "../assets/images/sanvit_motors.png";
+import sprint_bus from "../assets/images/sprint_bus.png";
+import akhil_bhartiya from "../assets/images/akhil_bhartiya.png";
+
+
 const projects = [
   {
     id: 1,
-    name: "Landing Page",
-    image: "https://img.freepik.com/premium-vector/landing-page-template_440410-494.jpg",
-    link: "/project-one"
+    name: "Automobile Marketplace",
+    image: sanvit_motors,
+    link: "http://sanvitmaruti.com/"
   },
   {
     id: 2,
-    name: "Ecommerce Website",
-    image: "https://img.freepik.com/premium-psd/flat-design-e-commerce-landing-page-template_23-2151219755.jpg",
-    link: "/project-two"
+    name: "Bus Booking System",
+    image: sprint_bus,
+    link: "https://sprintbus.ca/"
   },
   {
     id: 3,
-    name: "Mobile App UI",
-    image: "https://img.freepik.com/free-vector/travel-booking-app-with-airplane-reservation_23-2148626981.jpg",
-    link: "/project-three"
+    name: "Landing Page",
+    image: foresight,
+    link: "https://foresightdigitals.com/"
   },
   {
     id: 4,
-    name: "Brand Identity",
-    image: "https://img.freepik.com/premium-vector/clean-professional-corporate-brand-identity-mockup-stationery-set_616632-4755.jpg",
-    link: "/project-four"
+    name: "Government Landing Page",
+    image: akhil_bhartiya,
+    link: "https://abkmt.in/"
   }
 ];
 
