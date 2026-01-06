@@ -26,7 +26,7 @@ const Services = () => {
             {/* Right side */}
             <div className="flex items-center">
               <p className="text-lg lg:text-xl leading-relaxed">
-                Building robust, scalable web applications with PHP, Laravel, and MySQL. From creating dynamic backends to designing responsive frontends with ReactJS, I deliver seamless user experiences and maintainable codebases.
+                Building robust, scalable web applications with PHP, Laravel, and MySQL. From creating dynamic backends to designing responsive frontends with ReactJS and Nextjs, I deliver seamless user experiences and maintainable codebases.
               </p>
             </div>
 
