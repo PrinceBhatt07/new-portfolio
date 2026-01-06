@@ -8,6 +8,8 @@ import sku_bulk from "../assets/images/SKU Bulk Editor.png";
 import sprint_bus from "../assets/images/sprint_bus.png";
 import wheelsniffer from "../assets/images/wheelsniffer.png";
 import akhil_bhartiya from "../assets/images/Akhil_bhartiya.png";
+import logomax from '../assets/images/LOGOMAX.png'
+import uchlogidtics from '../assets/images/UCH_Logstics.png'
 
 const AllProjects = [
   {
@@ -70,6 +72,18 @@ const AllProjects = [
     image: confetti,
     link: "https://confettigifts.in", 
   },
+  {
+    id: 11,
+    name: 'Logomax',
+    image: logomax,
+    link: 'https://logomax.com/en-in'
+  },
+  {
+    id: 12,
+    name: 'Uch Logistics',
+    image: uchlogidtics,
+    link: 'https://uch-logistics-frontend.vercel.app/'
+  }
 ];
 
 export default AllProjects;
