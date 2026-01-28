@@ -1,5 +1,5 @@
 import confetti from "../assets/images/confetti.png";
-import foresight from "../assets/images/foresight.png";
+import advica_enterprise from "../assets/images/advica.png";
 import inkish_news from "../assets/images/inkish_news.png";
 import inkish_tv from "../assets/images/inkish_tv.png";
 import petriotics from "../assets/images/petriotics.png";
@@ -26,9 +26,9 @@ const AllProjects = [
   },
   {
     id: 3,
-    name: "Landing Page",
-    image: foresight,
-    link: "https://foresightdigitals.com/",
+    name: "Advica ERP System",
+    image: advica_enterprise,
+    link: "https://advica-enterprise.netlify.app/"
   },
   {
     id: 4,

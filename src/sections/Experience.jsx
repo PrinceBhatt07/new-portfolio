@@ -18,13 +18,61 @@ export const Experience = () => {
 
         <div className={cardClasses + " mb-10"}>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-            
+
+            <div className="md:col-span-1 border-r border-[#2c3340] md:pr-4">
+              <h3 className="text-xl md:text-2xl font-bold text-white uppercase tracking-wider mb-1">
+                Sagmetic Infotech
+              </h3>
+              <p className={dateClasses}>
+                Nov 2025 - Current
+              </p>
+            </div>
+
+            <div className="md:col-span-3 pt-4 md:pt-0">
+              <h4 className={titleClasses}>
+                Full Stack Developer
+              </h4>
+              <ul className={listClasses}>
+                <li className="flex items-start">
+                  <span className={bulletClasses}>•</span>
+                  Design, develop, and maintain integration-centric backend systems supporting logistics, payroll, and
+                  billing-oriented business processes.
+                </li>
+                <li className="flex items-start">
+                  <span className={bulletClasses}>•</span>
+                  Implement financial and settlement workflows, including salary calculation rules, invoice drafting logic,
+                  and reconciliation mechanisms.
+                </li>
+                <li className="flex items-start">
+                  <span className={bulletClasses}>•</span>
+                  Build and manage secure REST/OData-style APIs to enable structured data exchange between internal
+                  platforms and external services.
+                </li>
+                <li className="flex items-start">
+                  <span className={bulletClasses}>•</span>
+                  Automate background processing and scheduled jobs using Python to support ERP-like operational
+                  requirements.
+                </li>
+                <li className="flex items-start">
+                  <span className={bulletClasses}>•</span>
+                  Collaborate with business stakeholders to translate functional requirements into technical process
+                  flows
+                  , ensuring data integrity and traceability.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div className={cardClasses}>
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+
             <div className="md:col-span-1 border-r border-[#2c3340] md:pr-4">
               <h3 className="text-xl md:text-2xl font-bold text-white uppercase tracking-wider mb-1">
                 MY VIRTUAL TEAMS
               </h3>
               <p className={dateClasses}>
-                July 2023 - Current
+                July 2023 - Nov 2025
               </p>
             </div>
 
@@ -35,20 +83,27 @@ export const Experience = () => {
               <ul className={listClasses}>
                 <li className="flex items-start">
                   <span className={bulletClasses}>•</span>
-                  Designed and developed 10+ scalable web applications using Core PHP, Laravel, React.js, Node.js, and Express.js.
+                  Delivered multiple enterprise-grade applications with emphasis on billing logic, inventory
+                  synchronization, and transactional consistency
                 </li>
                 <li className="flex items-start">
                   <span className={bulletClasses}>•</span>
-                  Built custom Shopify public and embedded apps and integrated payment gateways (Stripe, Razorpay) to streamline client operations.
+                  Developed and maintained Shopify-based integrations, handling large product catalogs, pricing
+                  workflows, and financial data exchange.
                 </li>
                 <li className="flex items-start">
                   <span className={bulletClasses}>•</span>
-                  Implemented real-time notifications (Reverb, Pusher, Firebase) which improved user engagement by over 25% , and created RESTful APIs handling 1,000 requests per minute.
+                  Designed and optimized REST APIs to ensure high availability and throughput under production
+                  workloads.
                 </li>
                 <li className="flex items-start">
                   <span className={bulletClasses}>•</span>
-                  Configured and deployed on AWS, Hostinger, and DigitalOcean , optimizing setups with Docker and Nginx leading to a 15% reduction in server-side latency.
+                  Implemented real-time data integrations using WebSockets, Firebase, and third-party communication
+                  platforms.
                 </li>
+                <li className="flex items-start"><span className={bulletClasses}>•</span>
+                  Containerized backend services with Docker and configured Nginx-based deployments for scalable
+                  production environments</li>
               </ul>
             </div>
           </div>
@@ -56,7 +111,7 @@ export const Experience = () => {
 
         <div className={cardClasses}>
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-            
+
             <div className="md:col-span-1 border-r border-[#2c3340] md:pr-4">
               <h3 className="text-xl md:text-2xl font-bold text-white uppercase tracking-wider mb-1">
                 HOPING MINDS

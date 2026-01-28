@@ -1,8 +1,7 @@
-import foresight from "../assets/images/foresight.png";
 import sanvit_motors from "../assets/images/sanvit_motors.png";
 import sprint_bus from "../assets/images/sprint_bus.png";
-import akhil_bhartiya from "../assets/images/Akhil_bhartiya.png";
-
+import uch_logistics from "../assets/images/UCH_Logstics.png";
+import advica_enterprise from "../assets/images/advica.png";
 
 const projects = [
   {
@@ -19,15 +18,15 @@ const projects = [
   },
   {
     id: 3,
-    name: "Landing Page",
-    image: foresight,
-    link: "https://foresightdigitals.com/"
+    name: "Advica ERP System",
+    image: advica_enterprise,
+    link: "https://advica-enterprise.netlify.app/"
   },
   {
     id: 4,
-    name: "Government Landing Page",
-    image: akhil_bhartiya,
-    link: "https://abkmt.in/"
+    name: "UCH Logistics ERP",
+    image: uch_logistics,
+    link: "https://uch-logistics-frontend.vercel.app/dashboard"
   }
 ];
 

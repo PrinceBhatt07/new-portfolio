@@ -23,10 +23,14 @@ export const AboutBanner = () => {
               {/* Text */}
               <div className="md:w-[60%] text-lg md:text-xl space-y-4 max-md:pt-5">
                 <p className="max-sm:text-[16px]">
-                  I am a dedicated Full Stack PHP Developer with over 3.4+ years of experience designing and deploying scalable web applications for startups and enterprise clients. My core expertise spans Core PHP, Laravel, React.js, Nextjs, Node.js, and Express.js, coupled with proficiency in databases like MySQL and MongoDB. I have a strong track record of delivering high-impact features, including building custom Shopify apps, integrating payment gateways (Stripe, Razorpay), and implementing real-time features (using Reverb, Pusher, Firebase) that boosted user engagement by over 25% .
-                </p>
-                <p className="max-sm:text-[16px]">
-                  I have successfully created and optimized RESTful APIs capable of handling 1,000 requests per minute. Furthermore, my expertise extends to DevOps, where I've deployed and optimized applications on AWS (EC2, S3, IAM), Hostinger, and DigitalOcean using Docker and Nginx, resulting in a 15% reduction in server-side latency. Holding the AWS Cloud Practitioner and AWS Developer Associate certifications, I am committed to leveraging my full-stack skills and cloud expertise to deliver efficient, innovative, and high-performance web solutions.
+                  I am a dedicated Full Stack Developer with over 3.5+ years of experience building and maintaining
+                  enterprise-grade systems across logistics, e-commerce, and billing-driven platforms. Strong expertise in
+                  system integrations, REST/OData-style APIs, authentication, and financial workflow automation, with
+                  hands-on exposure to ERP concepts, billing processes, and large-scale system interoperability.
+                  Experienced in working with complex business rules, invoicing logic, background jobs, and process
+                  optimization, and well-positioned to contribute in SAP S/4HANA–centric environments through interface
+                  development, ERP integrations, and technical collaboration with functional teams. Strong ownership mindset
+                  and ability to adapt quickly in fast-paced, international environments.
                 </p>
               </div>
             </div>
