@@ -23,14 +23,7 @@ export const AboutBanner = () => {
               {/* Text */}
               <div className="md:w-[60%] text-lg md:text-xl space-y-4 max-md:pt-5">
                 <p className="max-sm:text-[16px]">
-                  I am a dedicated Full Stack Developer with over 3.5+ years of experience building and maintaining
-                  enterprise-grade systems across logistics, e-commerce, and billing-driven platforms. Strong expertise in
-                  system integrations, REST/OData-style APIs, authentication, and financial workflow automation, with
-                  hands-on exposure to ERP concepts, billing processes, and large-scale system interoperability.
-                  Experienced in working with complex business rules, invoicing logic, background jobs, and process
-                  optimization, and well-positioned to contribute in SAP S/4HANA–centric environments through interface
-                  development, ERP integrations, and technical collaboration with functional teams. Strong ownership mindset
-                  and ability to adapt quickly in fast-paced, international environments.
+              I am Full Stack Developer with 4 years of experience building scalable web applications using React.js, Next.js, Node.js, Express.js, Laravel, and FastAPI. Skilled in backend architecture, REST APIs, and databases including MongoDB, PostgreSQL, MySQL, and Redis. Experienced in AWS, Docker, CI/CD, Nginx, and cloud deployments, with a strong focus on secure, reliable, and high-performance software solutions.
                 </p>
               </div>
             </div>
