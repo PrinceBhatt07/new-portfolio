@@ -23,7 +23,9 @@ export const AboutBanner = () => {
               {/* Text */}
               <div className="md:w-[60%] text-lg md:text-xl space-y-4 max-md:pt-5">
                 <p className="max-sm:text-[16px]">
-              I am Full Stack Developer with 4 years of experience building scalable web applications using React.js, Next.js, Node.js, Express.js, Laravel, and FastAPI. Skilled in backend architecture, REST APIs, and databases including MongoDB, PostgreSQL, MySQL, and Redis. Experienced in AWS, Docker, CI/CD, Nginx, and cloud deployments, with a strong focus on secure, reliable, and high-performance software solutions.
+                  I am a Full Stack Developer with 4 years of experience designing, developing, and deploying scalable, secure, and high-performance web applications. My expertise spans React.js, Next.js, Node.js, Express.js, Laravel, and FastAPI, with a strong focus on backend architecture, REST APIs, microservices, and database optimization using MongoDB, PostgreSQL, MySQL, and Redis.
+
+                  Beyond application development, I work with AWS, Docker, CI/CD pipelines, Nginx, and Linux-based server environments to automate deployments, improve reliability, and maintain production systems. I am passionate about clean code, system integration, performance optimization, and solving complex engineering challenges, with a growing focus on cloud architecture, DevOps, and cybersecurity.
                 </p>
               </div>
             </div>
